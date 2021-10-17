@@ -7,5 +7,5 @@
 
 4. PROTEINS- This are large complex molecules that play important roles in the body. they are made up on hundreds or thousands of smaller units the amino acids. the sequence of amino acids determines each protein's unique structure and its specific function.
 
-5. CENTRAL DOGMA OF MOLECULAR BIOLOGY- this refers to the flow of genetic information from DNA to RNA to make a functional protein
+5. CENTRAL DOGMA OF MOLECULAR BIOLOGY- this refers to the flow of genetic information from DNA to RNA to make a functional protein.
 
