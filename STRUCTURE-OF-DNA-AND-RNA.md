@@ -9,10 +9,10 @@ The bases of the double stranded DNA, are joined together with hydrogen bonds fo
 
 
 
-### PURINES AND PYRIMIDINES
+## PURINES AND PYRIMIDINES
 The complementary bases are divided into two groups namely: **PURINES and PYRIMIDINES**
 
-**PURINES**
+## **PURINES**
 
 The purine nucleotide bases are ADENINE and GUANINE. They consist of a double ring a pyrimidine and an imidazole fused together
 
@@ -24,7 +24,7 @@ The purine nucleotide bases are ADENINE and GUANINE. They consist of a double ri
 
 
 
-**PYRIMIDINES**
+## **PYRIMIDINES**
 
 
 The pyrimidine nucleotide bases are THYMINE, CYTOSINE and URACIL( in RNA) they consist of a single ring.
@@ -44,3 +44,17 @@ The pyrimidine nucleotide bases are THYMINE, CYTOSINE and URACIL( in RNA) they c
 > 
 > ADENINE pairs with THYMINE (A::T) with two hydrogen bonds
 > GUANINE pairs with CYTOSINE (G::C) with three hydrogen bonds
+
+
+# STRUCTURE OF RNA
+**RNA** is a single stranded molecule that is made up of ribose nucleotide( nitrogenous bases appended to a ribose sugar) attached by phosphodiester bonds as in DNA
+The bases include ADENINE, GUANINE, CYTOSINE AND URACIL
+A pairs with U
+C pairs with G
+
+![RNA STRUCTURE](https://user-images.githubusercontent.com/77435490/137631583-27938ea3-2d66-4952-980e-773237f29a4c.png)
+
+There 3 common types of RNAs: messenger RNA (mRNA), Transfer RNA (tRNA) and ribosomal RNA (rRNA).
+- mRNA-Carries genetic information from DNA in nucleus to ribosomes which is the site of translation in the cytoplasm
+- rRNA- encodes the ribosome protein subunit
+- tRNA-bring specific amino acid to the ribosome to which  then link to form proteins
